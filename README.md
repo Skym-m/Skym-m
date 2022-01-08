@@ -32,13 +32,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Skym GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Skym-m&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://skym-website.glitch.me
 [server]: http://envisiearth-mc.com
 [twitter]: https://twitter.com/Skym_MC
