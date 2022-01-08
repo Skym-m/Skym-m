@@ -33,7 +33,7 @@
 <br />
 
 [website]: https://skym-website.glitch.me
-[server]: http://envisiearth-mc.com
+[server]: http://envisiearth.fr
 [twitter]: https://twitter.com/Skym_MC
 [youtube]: https://www.youtube.com/channel/UCP7khIEKy1x4PaY61fV_qbw
 [instagram]: https://instagram.com/Skym_MC
