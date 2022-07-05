@@ -1,21 +1,20 @@
 ### Hi there, I'm Skym-m - aka [Skym][website] 👋 
 
-[![Website](https://img.shields.io/website?label=skym-website&style=for-the-badge&url=https%3A%2F%2Fskym-website.glitch.me)](https://skym-website.glitch.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Skym_MC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSkym_MC&screen_name=Skym_MC)
+[![Website](https://img.shields.io/website?label=skym-mc&style=for-the-badge&url=https%3A%2F%2Fskym-mc.fr)](https://skym-mc.fr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Skym_MC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yannis_perrier)
 
 ## I'm a Developer, and I like Minecraft
 
 - 🔭 I just launched my Minecraft [server][server]!
-- 🌱 I’m currently learning JS and Python
-- 🥅 2021 Goal: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Apple
+- 🌱 I’m currently learning NodeJS
+- 🥅 2022 Goal: Create some websites
+- ⚡ Fun fact: I LOVE and work on Apple Hardware
 
 ### Connect with me:
 
 [<img align="left" alt="skym website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="skym | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="skym | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="skym | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
