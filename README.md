@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="skym website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="skym-mc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="skym | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="skym | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -30,8 +30,7 @@
 <br />
 <br />
 
-[website]: https://skym-website.glitch.me
-[server]: http://envisiearth.fr
-[twitter]: https://twitter.com/Skym_MC
+[website]: https://skym-mc.fr
+[server]: http://skym-mc.fr
+[twitter]: https://twitter.com/yannis_perrier
 [youtube]: https://www.youtube.com/channel/UCP7khIEKy1x4PaY61fV_qbw
-[instagram]: https://instagram.com/Skym_MC
