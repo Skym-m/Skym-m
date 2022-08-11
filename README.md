@@ -1,7 +1,6 @@
 ### Hi there, I'm Skym-m - aka [Skym][website] 👋 
 
 [![Website](https://img.shields.io/website?label=skym-mc&style=for-the-badge&url=https%3A%2F%2Fskym-mc.fr)](https://skym-mc.fr)
-[![Instagram Follow](https://img.shields.io/instagram/follow/Skym_MC?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/yns_pri)
 
 ## I'm a Developer, and I like Minecraft
 
