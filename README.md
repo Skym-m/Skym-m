@@ -1,7 +1,7 @@
 ### Hi there, I'm Skym-m - aka [Skym][website] 👋 
 
 [![Website](https://img.shields.io/website?label=skym-mc&style=for-the-badge&url=https%3A%2F%2Fskym-mc.fr)](https://skym-mc.fr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Skym_MC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yannis_perrier)
+[![Instagram Follow](https://img.shields.io/instagram/follow/Skym_MC?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/yns_pri)
 
 ## I'm a Developer, and I like Minecraft
 
@@ -14,7 +14,7 @@
 
 [<img align="left" alt="skym-mc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="skym | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="skym | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="skym | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -32,5 +32,5 @@
 
 [website]: https://skym-mc.fr
 [server]: http://skym-mc.fr
-[twitter]: https://twitter.com/yannis_perrier
+[instagram]: https://instagram.com/yns_pri
 [youtube]: https://www.youtube.com/channel/UCP7khIEKy1x4PaY61fV_qbw
