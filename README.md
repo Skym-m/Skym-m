@@ -1,6 +1,6 @@
 ### Hi there, I'm Skym-m - aka [Skym][website] 👋 
 
-[![Website](https://img.shields.io/website?label=skym-mc&style=for-the-badge&url=https%3A%2F%2Fskym-mc.fr)](https://skym-mc.fr)
+[![Website](https://img.shields.io/website?label=skymdev.fr&style=for-the-badge&url=https%3A%2F%2Fskymdev.fr)](https://skymdev.fr)
 
 ## I'm a Developer, and I like Minecraft
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="skym-mc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="skymdev.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="skym | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="skym | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -29,7 +29,7 @@
 <br />
 <br />
 
-[website]: https://skym-mc.fr
+[website]: https://skymdev.fr
 [server]: http://skym-mc.fr
 [instagram]: https://instagram.com/yns_pri
 [youtube]: https://www.youtube.com/channel/UCP7khIEKy1x4PaY61fV_qbw
