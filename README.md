@@ -4,9 +4,8 @@
 
 ## I'm a Developer, and I like Minecraft
 
-- 🔭 I just launched my Minecraft [server][server]!
 - 🌱 I’m currently learning NodeJS
-- 🥅 2022 Goal: Create some websites
+- 🥅 2023 Goal: Create some websites
 - ⚡ Fun fact: I LOVE and work on Apple Hardware
 
 ### Connect with me:
